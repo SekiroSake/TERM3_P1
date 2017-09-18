@@ -9,3 +9,4 @@ Before I could make a plan planing, first off, let the car run, regardless of th
             }
 ```
 This code simply push the next 50 dots with sequentially every .02 seconds into next x and y value stack which could let the car start to run.
+![](https://github.com/hang-wang/TERM3_P1/blob/master/image/run.gif)
