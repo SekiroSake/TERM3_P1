@@ -27,3 +27,6 @@ next_y_vals.push_back(xy[1]);
 ```
 Now the vehicle could run following the lane.
 ![](https://github.com/hang-wang/TERM3_P1/blob/master/image/run2.gif)
+![](https://github.com/hang-wang/TERM3_P1/blob/master/image/run3.gif)
+![](https://github.com/hang-wang/TERM3_P1/blob/master/image/run4.gif)
+![](https://github.com/hang-wang/TERM3_P1/blob/master/image/run5.gif)
